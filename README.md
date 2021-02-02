@@ -24,3 +24,5 @@ This python program automates your spotify playlist using the videos you liked o
 `python3 create_playlist.py`   
     * you'll immediately see `Please visit this URL to authorize this application: <some long url>`
     * click on it and log into your Google Account to collect the `authorization code`
+
+The above work is an interpretation of a project from "The Come Up"
